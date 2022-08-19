@@ -1,0 +1,32 @@
+form {
+  background-color: white;
+  width: 300px;
+  display: flex;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+.input {
+  width: 100%;
+  padding: 15px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid rgb(46, 219, 205);
+}
+
+.button {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 15px;
+  background-color: rgb(53, 207, 189)
+  color white;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.button:hover{
+  background-color: rgb(5, 143, 86)
+}
+
